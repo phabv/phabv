@@ -21,7 +21,7 @@
 ---
 
 ### 📂 Projetos em Destaque
-- ** Associação Raios de Luz - https://github.com/phabv/associacao_raios_de_luz
+- **Associação Raios de Luz - https://github.com/phabv/associacao_raios_de_luz
 
 ---
 
