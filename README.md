@@ -22,6 +22,7 @@
 
 ### 📂 Projetos em Destaque
 - Associação Raios de Luz - https://github.com/phabv/associacao_raios_de_luz
+- Crm-de-Vendas - https://github.com/phabv/CRM-de-Vendas/tree/main
 
 ---
 
