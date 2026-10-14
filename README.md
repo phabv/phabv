@@ -27,8 +27,8 @@
 ---
 
 ### 📫 Onde me encontrar
-- **LinkedIn:** [[linkedin.com/in/phablomisael](https://www.linkedin.com/in/phablomisael/)
-- **E-mail:** phablo.misael@gmail.com](mailto:phablo.misael@gmail.com)
+- **LinkedIn:** [linkedin.com/in/phablomisael](https://www.linkedin.com/in/phablomisael/)
+- **E-mail:** [phablo.misael@gmail.com](mailto:phablo.misael@gmail.com)
 <!--
 **phabv/phabv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
